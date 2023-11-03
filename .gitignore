@@ -1,6 +1,6 @@
 /*
 !/buildSrc
-!/common
+!/shared
 !/macos
 !.gitignore
 !README.md

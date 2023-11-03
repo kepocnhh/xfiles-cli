@@ -11,11 +11,11 @@ kotlin {
     sourceSets {
         getByName("commonMain") {
             dependencies {
-                implementation(project(":common"))
+                implementation(project(":shared"))
             }
         }
         getByName("macosArm64Main") {
-            kotlin.srcDirs("src/macos/arm64/main/kotlin")
+            kotlin.srcDirs("src/arm64/main/kotlin")
         }
     }
 }
