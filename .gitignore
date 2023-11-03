@@ -1,6 +1,7 @@
 /*
 !/buildSrc
 !/common
+!/macos
 !.gitignore
 !README.md
 !build.gradle.kts

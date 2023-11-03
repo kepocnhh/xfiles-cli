@@ -1,3 +1,3 @@
 rootProject.name = "xfiles-cli"
 
-include("common")
+include("common", "macos")
